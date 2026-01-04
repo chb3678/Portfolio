@@ -1,13 +1,12 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Huanbin Chen",
+  title: "Junior Mechanical Engineer",
+  description: "Portfolio website of Huanbin Chen",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "chb3678@berkeley.edu",
+    linkedin: "https://www.linkedin.com/in/huanbin-chen-85731a28b/",
+    github: "https://github.com/chb3678",
   },
   aboutMe:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
@@ -69,16 +68,15 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "University of California, Berkeley",
+      degree: "Bachelor of Science in Mechanical Engineering",
+      dateRange: "2023 - 2025",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Winner of Mechanical Design Award in Fall 2025",
+        "Rocket Engineer at Space Enterprise At Berkeley",
       ],
     },
-    {
+    /*{
       school: "Online Platform",
       degree: "Full Stack Development Certificate",
       dateRange: "2019",
@@ -87,6 +85,6 @@ export const siteConfig = {
         "Built 10+ portfolio projects",
         "Specialized in React and Node.js",
       ],
-    },
+    },*/
   ],
 };
