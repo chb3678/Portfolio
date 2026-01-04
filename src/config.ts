@@ -1,5 +1,5 @@
 export const siteConfig = {
-  avatar: "/me.jpg",
+  avatar: "me.jpg",
   name: "Huanbin Chen",
   title: "Junior Mechanical Engineer",
   description: "Portfolio website of Huanbin Chen",
