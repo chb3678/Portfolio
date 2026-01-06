@@ -18,22 +18,22 @@ export const siteConfig = {
       name: "Automated Defensive Air Hockey Table",
       description:
         "Designed an autonomous robotic system integrating computer vision, real-time control, and electromechanicalactuation under RTOS constraints",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+      /*link: "https://aidevroundup.com/?ref=devportfolio",*/
       skills: ["CAD", "Computer Vision", "Embedded System"],
     },
     {
       name: "RC Gesture-Controlled Car",
       description:
         "Built an embedded robotic platform integrating accelerometer sensing and DC motor actuation for gesture-based navigation",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://www.dropbox.com/scl/fi/6keba7hr0xfqf4zsl1rmr/Project-Report.pdf?rlkey=n2spwbhuvxnbgdbkix9lflrb3&st=y8o2owua&dl=0",
       skills: ["Python", "ESP32", "CAD", "Sensor implementation"],
     },
     {
       name: "Flying Cicada Robot",
       description:
         "Designed a biomimetic flapping-wing robot including custom gear trains and compliant wing structures",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["CAD", "Manufacturing", "System Design"],
+      link: "https://www.dropbox.com/scl/fi/6ip5t6lzz1ir1g9m66cp7/Report.pdf?rlkey=xhhx2p6qrye1b19398id1lzhw&st=kb1rg3io&dl=0",
+      skills: ["CAD", "Manufacturing", "System Design", "FEA"],
     },
   ],
   experience: [
