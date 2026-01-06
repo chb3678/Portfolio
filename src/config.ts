@@ -11,7 +11,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I LOVE ROBOTS, AND EVERYTHING MECHANICAL ENGINEERING!",
-  skills: ["Python", "TypeScript", "C++", "FEA", "Manufacturing & Design","More..."
+  skills: ["Python", "TypeScript", "C++", "FEA", "Manufacturing", "System Design","More..."
   ],
   projects: [
     {
