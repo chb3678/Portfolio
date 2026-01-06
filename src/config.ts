@@ -85,6 +85,7 @@ export const siteConfig = {
         "Member of Engineering Club",
         "Dean's List",
         "Tutor for Physics course series",
+        "Tutor for Math course series"
       ],
     },
     /*{
