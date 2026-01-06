@@ -77,6 +77,16 @@ export const siteConfig = {
         "Rocket Engineer at Space Enterprise At Berkeley",
       ],
     },
+    {
+      school: "CCSF",
+      degree: "Department of Engineering",
+      dateRange: "2021 - 2023",
+      achievements: [
+        "Member of Engineering Club",
+        "Dean's List",
+        "Tutor for Physics course series",
+      ],
+    },
     /*{
       school: "Online Platform",
       degree: "Full Stack Development Certificate",
