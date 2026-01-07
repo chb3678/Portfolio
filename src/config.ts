@@ -59,7 +59,7 @@ export const siteConfig = {
       title: "Mechanical Engineering Intern",
       dateRange: "Nov 2021– Mar 2023",
       bullets: [
-        "Designed tolerancing and assembly tools to trim parts defection and assemble optical scanners.",
+        "Designed tolerancing and assembly tools to trim parts defection and assemble optical scanners",
         "Create Python program to establish electronic communication to fetch data and output graphs to visualizeexperiment results",
       ],
     },
