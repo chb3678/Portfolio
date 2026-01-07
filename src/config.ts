@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/chb3678",
   },
   aboutMe:
-    "I LOVE ROBOTS, AND EVERYTHING MECHANICAL ENGINEERING!",
+    "I LOVE ROBOTS, AND EVERYTHING MECHANICAL ENGINEERING! Aside from that, I enjoy playing badminton and discovering new food spots! Feel free to reach out to me if my project interests you!",
   skills: ["Python", "TypeScript", "C++", "FEA", "Manufacturing", "System Design","More..."
   ],
   projects: [
@@ -35,6 +35,13 @@ export const siteConfig = {
       link: "https://www.dropbox.com/scl/fi/6ip5t6lzz1ir1g9m66cp7/Report.pdf?rlkey=xhhx2p6qrye1b19398id1lzhw&st=kb1rg3io&dl=0",
       skills: ["CAD", "Manufacturing", "System Design", "FEA"],
     },
+    {
+      name: "Tripedal Jumping Robot",
+      description:
+        "In progress...",
+      /*link: "https://aidevroundup.com/?ref=devportfolio",*/
+      skills: ["CAD", "Manufacturing", "Transmission Mechanisms", "C++"],
+    },
   ],
   experience: [
     {
@@ -58,7 +65,7 @@ export const siteConfig = {
     },
     {
       company: "Space Enterprise at Berkeley",
-      title: "Rocket Engineer",
+      title: "Propulsion Engineer",
       dateRange: "Aug 2023– Present",
       bullets: [
         "Participated in designing Thrust Vector Control for controlling rocket nozzle during the launching process, as well as involved in material selection for thermal and mechanical stress resistance",
