@@ -45,6 +45,13 @@ export const siteConfig = {
   ],
   experience: [
     {
+      company: "Alef",
+      title: "Mechanical Engineer",
+      dateRange: "Present",
+      bullets: [
+      ],
+    },
+    {
       company: "City College of San Francisco",
       title: "Manufacturing Engineer",
       dateRange: "Aug 2021– May 2023",
