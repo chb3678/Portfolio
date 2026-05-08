@@ -10,8 +10,8 @@ export const siteConfig = {
     github: "https://github.com/chb3678",
   },
   aboutMe:
-    "I LOVE ROBOTS, AND EVERYTHING MECHANICAL ENGINEERING! Aside from that, I enjoy playing badminton and discovering new food spots! Feel free to reach out to me if my project interests you!",
-  skills: ["Python", "TypeScript", "C++", "FEA", "Manufacturing", "System Design","More..."
+    "Transitioning to a career in robotics and automation. Aside from that, I enjoy playing badminton and discovering new food spots! Feel free to reach out to me if my project interests you!",
+  skills: ["Python", "TypeScript", "C++", "FEA", "Manufacturing", "ROS2","More..."
   ],
   projects: [
     {
@@ -59,9 +59,19 @@ export const siteConfig = {
       ],
     },
     {
+      company: "Space Enterprise at Berkeley",
+      title: "Propulsion Engineer",
+      dateRange: "Aug 2023 - Jan 2026",
+      bullets: [
+        "Participated in designing Thrust Vector Control for controlling rocket nozzle during the launching process, as well as involved in material selection for thermal and mechanical stress resistance",
+        "CFD simulations for airflow and pressure analysis, and analyzed thrust to weight ratio and propulsive efficiency when air density is low at high altitude",
+        "Investigated material fatigue during rapid heating and cooling cycles, delamination (in composites), and vibration-induced cracks",
+      ],
+    },
+    {
       company: "City College of San Francisco",
       title: "Manufacturing Engineer",
-      dateRange: "Aug 2021– May 2023",
+      dateRange: "Aug 2021 - May 2023",
       bullets: [
         "Designed a solar-powered boat that is used to compete in the California Solar Regatta",
         "Structural analysis on the body of the boat to maintain balance on water",
@@ -71,20 +81,10 @@ export const siteConfig = {
     {
       company: "Mirada Technologies",
       title: "Mechanical Engineering Intern",
-      dateRange: "Nov 2021– Mar 2023",
+      dateRange: "Nov 2021 - Mar 2023",
       bullets: [
         "Designed tolerancing and assembly tools to trim parts defection and assemble optical scanners",
         "Create Python program to establish electronic communication to fetch data and output graphs to visualizeexperiment results",
-      ],
-    },
-    {
-      company: "Space Enterprise at Berkeley",
-      title: "Propulsion Engineer",
-      dateRange: "Aug 2023– Present",
-      bullets: [
-        "Participated in designing Thrust Vector Control for controlling rocket nozzle during the launching process, as well as involved in material selection for thermal and mechanical stress resistance",
-        "CFD simulations for airflow and pressure analysis, and analyzed thrust to weight ratio and propulsive efficiency when air density is low at high altitude",
-        "Investigated material fatigue during rapid heating and cooling cycles, delamination (in composites), and vibration-induced cracks",
       ],
     },
   ],
