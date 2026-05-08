@@ -45,10 +45,17 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Alef",
-      title: "Mechanical Engineer",
+      company: "PathOn Robotics ",
+      title: "Robotics Researcher",
       dateRange: "Present",
       bullets: [
+      ],
+    },
+    {
+      company: "Alef",
+      title: "Mechanical Engineer",
+      dateRange: "Jan 2026 - May 2026",
+      bullets: ["Manufactured and assembled mesh cover for car exterior. Chassis design and analysis for crash safety and structural integrity."
       ],
     },
     {
